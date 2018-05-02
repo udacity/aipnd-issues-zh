@@ -1,2 +1,2 @@
-# mlnd-issues-zh
-优达学城-机器学习课程内容反馈
+# aipnd-issues-zh
+优达学城-人工智能编程基础课程内容反馈
